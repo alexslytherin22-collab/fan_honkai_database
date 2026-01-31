@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-pages/teoria-del-universo/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/02-pages/teoria-del-universo/","tags":["gardenEntry"],"dgShowLocalGraph":"true","dgShowFileTree":"true","noteIcon":"","updated":"2026-01-31T20:17:13.415+01:00"}
 ---
 
 A pesar de que la colección de juegos de HoYo suele ser denominado popularmente como "HoYoverso", realmente el Universo Honkai no es un multiverso, porque tal y como la el término indica, eso implicaría la existencia de varios universos. Los propios desarrolladores explican que no es un multiverso, ya que un "Universo" debe albergar el todo, por lo que la existencia de un multiverso, a sus ojos, no es posible.
