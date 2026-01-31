@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-pages/02-hsr/teoria-de-los-cuatro-apocalipsis/","dgShowLocalGraph":"true","dgShowFileTree":"true","noteIcon":"","updated":"2026-01-31T20:19:18.630+01:00"}
+{"dg-publish":true,"permalink":"/02-pages/02-hsr/teoria-de-los-cuatro-apocalipsis/","dgShowLocalGraph":"true","dgShowFileTree":"true","noteIcon":"","updated":"2026-01-31T20:49:03.965+01:00"}
 ---
 
 La Teoría de los Cuatro Apocalipsis es una profecía hecha por Terminus, y difundida por la Vanguardia de la Profecía[^1].
