@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-pages/02-hsr/stellaron/","dgShowLocalGraph":"true","dgShowFileTree":"true","noteIcon":"","updated":"2026-01-31T20:21:19.234+01:00"}
+{"dg-publish":true,"permalink":"/02-pages/02-hsr/stellaron/","dgShowLocalGraph":"true","dgShowInlineTitle":"true","dgShowFileTree":"true","noteIcon":"","updated":"2026-01-31T20:49:14.130+01:00"}
 ---
 
 Desde hace algún tiempo, varias facciones han comenzado a notar este fenómeno. Una materia vaga e imperceptible interrumpió el flujo de energía imaginaria a lo largo de las rutas interestelares creadas por el Trailblazer. Al igual que un escalador que se encuentra con una roca, o un barco de larga distancia que se encuentra con tsunamis y remolinos, los viajes interestelares han pasado de ser sin obstáculos a ser peligrosos e impredecibles.
