@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-pages/02-hsr/escala-de-poder-hsr/","dgShowLocalGraph":"true","dgShowFileTree":"true","noteIcon":"","updated":"2026-01-31T20:21:43.307+01:00"}
+{"dg-publish":true,"permalink":"/02-pages/02-hsr/escala-de-poder-hsr/","dgShowLocalGraph":"true","dgShowInlineTitle":"true","dgShowFileTree":"true","noteIcon":"","updated":"2026-01-31T20:49:33.995+01:00"}
 ---
 
 # Eones
