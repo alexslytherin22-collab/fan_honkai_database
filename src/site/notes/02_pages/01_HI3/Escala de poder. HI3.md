@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-pages/01-hi-3/escala-de-poder-hi-3/","dgShowLocalGraph":"true","dgShowInlineTitle":"true","dgShowFileTree":"true","noteIcon":"","updated":"2026-01-31T20:49:56.230+01:00"}
+{"dg-publish":true,"permalink":"/02-pages/01-hi-3/escala-de-poder-hi-3/","dgShowLocalGraph":"true","dgShowInlineTitle":"true","dgShowFileTree":"true","noteIcon":"","updated":"2026-01-31T20:57:27.581+01:00"}
 ---
 
 # Capullo de la Finalidad.
