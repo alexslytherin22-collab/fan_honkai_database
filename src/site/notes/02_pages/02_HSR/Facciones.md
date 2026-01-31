@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-pages/02-hsr/facciones/","dgShowLocalGraph":"true","dgShowFileTree":"true","noteIcon":"","updated":"2026-01-31T20:21:29.192+01:00"}
+{"dg-publish":true,"permalink":"/02-pages/02-hsr/facciones/","dgShowLocalGraph":"true","dgShowInlineTitle":"true","dgShowFileTree":"true","noteIcon":"","updated":"2026-01-31T20:49:26.669+01:00"}
 ---
 
 ## Abundancia
