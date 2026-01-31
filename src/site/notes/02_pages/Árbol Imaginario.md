@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-pages/arbol-imaginario/","dgShowLocalGraph":"true","dgShowFileTree":"true","noteIcon":"","updated":"2026-01-31T20:18:33.932+01:00"}
+{"dg-publish":true,"permalink":"/02-pages/arbol-imaginario/","dgShowLocalGraph":"true","dgShowInlineTitle":"true","dgShowFileTree":"true","noteIcon":"","updated":"2026-01-31T20:48:57.726+01:00"}
 ---
 
 La teoría del <span style="color:rgba(224, 215, 166)">Árbol Imaginario</span> es una teoría que explica el universo y su funcionamiento. 
