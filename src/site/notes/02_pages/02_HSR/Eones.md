@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-pages/02-hsr/eones/","dgShowLocalGraph":"true","dgShowFileTree":"true","noteIcon":"","updated":"2026-01-31T20:21:53.609+01:00"}
+{"dg-publish":true,"permalink":"/02-pages/02-hsr/eones/","dgShowLocalGraph":"true","dgShowInlineTitle":"true","dgShowFileTree":"true","noteIcon":"","updated":"2026-01-31T20:49:39.756+01:00"}
 ---
 
 Los Eones son seres misteriosos y divinos de dimensiones superiores en Honkai: Star Rail que presiden el universo. Construyen la realidad, borran estrellas y dejan su huella en innumerables mundos.
