@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-pages/02-hsr/emanadores/","dgShowLocalGraph":"true","dgShowFileTree":"true","noteIcon":"","updated":"2026-01-31T20:22:03.268+01:00"}
+{"dg-publish":true,"permalink":"/02-pages/02-hsr/emanadores/","dgShowLocalGraph":"true","dgShowInlineTitle":"true","dgShowFileTree":"true","noteIcon":"","updated":"2026-01-31T20:49:47.053+01:00"}
 ---
 
 Caminantes de la Vía con poder de la autoridad otorgada directamente por los Eones. Son incomparablemente más poderosos que los simples mortales. Por lo general, son los ejecutores de la voluntad de los Eones. Un Emanador se refiere a aquellos que han obtenido el permiso de un Eón para extraer poder de la Vía de ese Eón.
