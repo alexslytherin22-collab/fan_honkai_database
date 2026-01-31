@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-glosario/01-hi-3/herrschers/doceava-herrscher-of-corruption/","dgShowLocalGraph":"true","dgShowFileTree":"true","noteIcon":"","updated":"2026-01-31T20:23:20.387+01:00"}
+{"dg-publish":true,"permalink":"/01-glosario/01-hi-3/herrschers/doceava-herrscher-of-corruption/","dgShowLocalGraph":"true","dgShowInlineTitle":"true","dgShowFileTree":"true","noteIcon":"","updated":"2026-01-31T21:05:37.270+01:00"}
 ---
 
 > [!note] AUTORIDAD

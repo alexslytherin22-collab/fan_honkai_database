@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-glosario/01-hi-3/herrschers/primer-herrscher-of-reason/","dgShowLocalGraph":"true","dgShowFileTree":"true","noteIcon":"","updated":"2026-01-31T20:24:11.711+01:00"}
+{"dg-publish":true,"permalink":"/01-glosario/01-hi-3/herrschers/primer-herrscher-of-reason/","dgShowLocalGraph":"true","dgShowInlineTitle":"true","dgShowFileTree":"true","noteIcon":"","updated":"2026-01-31T21:05:21.366+01:00"}
 ---
 
 > [!note] AUTORIDAD

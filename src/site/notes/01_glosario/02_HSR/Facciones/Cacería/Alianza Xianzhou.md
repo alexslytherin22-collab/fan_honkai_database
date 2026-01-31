@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-glosario/02-hsr/facciones/caceria/alianza-xianzhou/","dgShowLocalGraph":"true","dgShowFileTree":"true","noteIcon":"","updated":"2026-01-31T20:30:40.590+01:00"}
+{"dg-publish":true,"permalink":"/01-glosario/02-hsr/facciones/caceria/alianza-xianzhou/","dgShowLocalGraph":"true","dgShowInlineTitle":"true","dgShowFileTree":"true","noteIcon":"","updated":"2026-01-31T21:03:05.583+01:00"}
 ---
 
 Una antigua unión compuesta por muchas razas inteligentes. Se apoderan de Xianzhou para eliminar las Abominaciones de la Abundancia[^1].

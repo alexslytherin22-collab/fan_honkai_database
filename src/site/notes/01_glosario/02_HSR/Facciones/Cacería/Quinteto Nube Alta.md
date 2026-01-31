@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-glosario/02-hsr/facciones/caceria/quinteto-nube-alta/","dgShowLocalGraph":"true","dgShowFileTree":"true","noteIcon":"","updated":"2026-01-31T20:30:48.667+01:00"}
+{"dg-publish":true,"permalink":"/01-glosario/02-hsr/facciones/caceria/quinteto-nube-alta/","dgShowLocalGraph":"true","dgShowInlineTitle":"true","dgShowFileTree":"true","noteIcon":"","updated":"2026-01-31T21:03:02.226+01:00"}
 ---
 
 El Quinteto Nube Alta fue un legendario grupo de cinco héroes en la historia de Xianzhou. Estaban liderados por Jingliu, la anterior Campeona de la Espada del Xianzhou Luofu. Sin embargo, se disolvieron menos de cien años después de la formación del grupo.

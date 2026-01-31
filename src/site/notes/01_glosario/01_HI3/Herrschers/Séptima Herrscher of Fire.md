@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-glosario/01-hi-3/herrschers/septima-herrscher-of-fire/","dgShowLocalGraph":"true","dgShowFileTree":"true","noteIcon":"","updated":"2026-01-31T20:24:52.904+01:00"}
+{"dg-publish":true,"permalink":"/01-glosario/01-hi-3/herrschers/septima-herrscher-of-fire/","dgShowLocalGraph":"true","dgShowInlineTitle":"true","dgShowFileTree":"true","noteIcon":"","updated":"2026-01-31T21:05:10.697+01:00"}
 ---
 
 > [!note] AUTORIDAD

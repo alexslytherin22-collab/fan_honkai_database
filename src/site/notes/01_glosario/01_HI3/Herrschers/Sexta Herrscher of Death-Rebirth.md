@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-glosario/01-hi-3/herrschers/sexta-herrscher-of-death-rebirth/","dgShowLocalGraph":"true","dgShowFileTree":"true","noteIcon":"","updated":"2026-01-31T20:25:04.362+01:00"}
+{"dg-publish":true,"permalink":"/01-glosario/01-hi-3/herrschers/sexta-herrscher-of-death-rebirth/","dgShowLocalGraph":"true","dgShowInlineTitle":"true","dgShowFileTree":"true","noteIcon":"","updated":"2026-01-31T21:05:07.483+01:00"}
 ---
 
 > [!note] AUTORIDAD

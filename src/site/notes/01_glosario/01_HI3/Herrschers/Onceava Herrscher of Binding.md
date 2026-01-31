@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-glosario/01-hi-3/herrschers/onceava-herrscher-of-binding/","dgShowLocalGraph":"true","dgShowFileTree":"true","noteIcon":"","updated":"2026-01-31T20:24:01.694+01:00"}
+{"dg-publish":true,"permalink":"/01-glosario/01-hi-3/herrschers/onceava-herrscher-of-binding/","dgShowLocalGraph":"true","dgShowInlineTitle":"true","dgShowFileTree":"true","noteIcon":"","updated":"2026-01-31T21:05:24.219+01:00"}
 ---
 
 > [!note] AUTORIDAD

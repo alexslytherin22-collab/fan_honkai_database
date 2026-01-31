@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-glosario/02-hsr/eones/18-eon/fuli-reminiscencia/","dgShowLocalGraph":"true","dgShowFileTree":"true","noteIcon":"","updated":"2026-01-31T20:27:59.962+01:00"}
+{"dg-publish":true,"permalink":"/01-glosario/02-hsr/eones/18-eon/fuli-reminiscencia/","dgShowLocalGraph":"true","dgShowInlineTitle":"true","dgShowFileTree":"true","noteIcon":"","updated":"2026-01-31T21:04:17.218+01:00"}
 ---
 
 Los pensamientos equivalen a la existencia. Por lo tanto, la memoria es la prueba de la existencia. El Eón que preside la Vía de la Reminiscencia registra todo lo que se ha olvidado y prepara el renacimiento del universo.

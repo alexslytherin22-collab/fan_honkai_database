@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-glosario/02-hsr/emanadores/autodestructor/","dgShowLocalGraph":"true","dgShowFileTree":"true","noteIcon":"","updated":"2026-01-31T20:26:34.621+01:00"}
+{"dg-publish":true,"permalink":"/01-glosario/02-hsr/emanadores/autodestructor/","dgShowLocalGraph":"true","dgShowInlineTitle":"true","dgShowFileTree":"true","noteIcon":"","updated":"2026-01-31T21:04:34.764+01:00"}
 ---
 
 Alguien que accidentalmente pisó la Sombra de IX, la Nihilidad, y, desde ese momento, perdió su razón de ser.

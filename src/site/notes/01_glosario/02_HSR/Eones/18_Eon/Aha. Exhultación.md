@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-glosario/02-hsr/eones/18-eon/aha-exhultacion/","dgShowLocalGraph":"true","dgShowFileTree":"true","noteIcon":"","updated":"2026-01-31T20:27:33.408+01:00"}
+{"dg-publish":true,"permalink":"/01-glosario/02-hsr/eones/18-eon/aha-exhultacion/","dgShowLocalGraph":"true","dgShowInlineTitle":"true","dgShowFileTree":"true","noteIcon":"","updated":"2026-01-31T21:04:26.975+01:00"}
 ---
 
 El Eón de la Alegría. Nadie puede predecir hacia qué es lo que este Eón podría expresar SU alegría.

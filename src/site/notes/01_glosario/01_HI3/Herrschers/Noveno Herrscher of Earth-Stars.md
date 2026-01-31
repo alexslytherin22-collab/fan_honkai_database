@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-glosario/01-hi-3/herrschers/noveno-herrscher-of-earth-stars/","dgShowLocalGraph":"true","dgShowFileTree":"true","noteIcon":"","updated":"2026-01-31T20:34:46.209+01:00"}
+{"dg-publish":true,"permalink":"/01-glosario/01-hi-3/herrschers/noveno-herrscher-of-earth-stars/","dgShowLocalGraph":"true","dgShowFileTree":"true","noteIcon":"","updated":"2026-01-31T21:05:30.090+01:00"}
 ---
 
 p> [!note] AUTORIDAD

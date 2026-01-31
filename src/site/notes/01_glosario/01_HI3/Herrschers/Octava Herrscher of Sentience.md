@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-glosario/01-hi-3/herrschers/octava-herrscher-of-sentience/","dgShowLocalGraph":"true","dgShowFileTree":"true","noteIcon":"","updated":"2026-01-31T20:23:53.420+01:00"}
+{"dg-publish":true,"permalink":"/01-glosario/01-hi-3/herrschers/octava-herrscher-of-sentience/","dgShowLocalGraph":"true","dgShowInlineTitle":"true","dgShowFileTree":"true","noteIcon":"","updated":"2026-01-31T21:05:27.700+01:00"}
 ---
 
 > [!note] AUTORIDAD

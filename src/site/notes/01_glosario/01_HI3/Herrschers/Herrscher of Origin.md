@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-glosario/01-hi-3/herrschers/herrscher-of-origin/","dgShowLocalGraph":"true","dgShowFileTree":"true","noteIcon":"","updated":"2026-01-31T20:23:31.489+01:00"}
+{"dg-publish":true,"permalink":"/01-glosario/01-hi-3/herrschers/herrscher-of-origin/","dgShowLocalGraph":"true","dgShowInlineTitle":"true","dgShowFileTree":"true","noteIcon":"","updated":"2026-01-31T21:05:33.626+01:00"}
 ---
 
 ### Herrscher 0. Herrscher of Origin

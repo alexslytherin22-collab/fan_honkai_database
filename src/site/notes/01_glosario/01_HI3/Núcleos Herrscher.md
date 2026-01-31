@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-glosario/01-hi-3/nucleos-herrscher/","dgShowLocalGraph":"true","dgShowFileTree":"true","noteIcon":"","updated":"2026-01-31T20:26:21.216+01:00"}
+{"dg-publish":true,"permalink":"/01-glosario/01-hi-3/nucleos-herrscher/","dgShowLocalGraph":"true","dgShowInlineTitle":"true","dgShowFileTree":"true","noteIcon":"","updated":"2026-01-31T21:04:40.378+01:00"}
 ---
 
 #### Núcleos Herrscher

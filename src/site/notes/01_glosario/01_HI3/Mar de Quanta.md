@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-glosario/01-hi-3/mar-de-quanta/","dgShowLocalGraph":"true","dgShowFileTree":"true","noteIcon":"","updated":"2026-01-31T20:26:12.196+01:00"}
+{"dg-publish":true,"permalink":"/01-glosario/01-hi-3/mar-de-quanta/","dgShowLocalGraph":"true","dgShowInlineTitle":"true","dgShowFileTree":"true","noteIcon":"","updated":"2026-01-31T21:04:44.015+01:00"}
 ---
 
 El <span style="color:rgba(138, 134, 219)">Mar de Quanta</span> no es un mar real, no pertenece a ninguna galaxia en particular y no está compuesto por agua líquida. Está lleno de éter, un medio especial que llena el espacio mundial. En él nacen los mundos burbuja, pero también hay mundos que han caído del <span style="color:rgba(224, 215, 166)">Árbol Imaginario</span> y perecen. Sin embargo, nada dura para siempre en el <span style="color:rgba(138, 134, 219)">Mar de Quanta</span>, y al final todos los mundos burbuja mueren. Debido a la inestabilidad y fusión de los mundos burbuja, se libera una gran cantidad de energía que luego puede ser recolectada, similar a la fusión nuclear.

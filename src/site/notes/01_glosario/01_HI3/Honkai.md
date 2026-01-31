@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-glosario/01-hi-3/honkai/","dgShowLocalGraph":"true","dgShowFileTree":"true","noteIcon":"","updated":"2026-01-31T20:25:48.899+01:00"}
+{"dg-publish":true,"permalink":"/01-glosario/01-hi-3/honkai/","dgShowLocalGraph":"true","dgShowInlineTitle":"true","dgShowFileTree":"true","noteIcon":"","updated":"2026-01-31T21:04:50.853+01:00"}
 ---
 
 Energía de alto nivel que sirve para dar potencia a la tecnología o puede ser convertida para manipular elementos y el Vacío. Está directamente vinculada con la conciencia humana y se ve atraída, sobre todo, a aquellos con emociones abrumadoramente fuertes como odio, desesperación, etc.

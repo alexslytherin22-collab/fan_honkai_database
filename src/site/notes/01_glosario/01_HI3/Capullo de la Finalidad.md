@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-glosario/01-hi-3/capullo-de-la-finalidad/","dgShowLocalGraph":"true","dgShowFileTree":"true","noteIcon":"","updated":"2026-01-31T20:25:23.737+01:00"}
+{"dg-publish":true,"permalink":"/01-glosario/01-hi-3/capullo-de-la-finalidad/","dgShowLocalGraph":"true","dgShowInlineTitle":"true","dgShowFileTree":"true","noteIcon":"","updated":"2026-01-31T21:05:01.336+01:00"}
 ---
 
 También conocido como <span style="color:rgba(234, 104, 250)"><i>Cocoon of Finality</i></span>, el <span style="color:rgba(234, 104, 250)">Capullo</span> es un ser alienígena en Honkai Impact 3rd. Presumiblemente, es el resultado de una civilización unida a un planeta, convirtiéndose en uno. Al intentar crear una criatura similar a sí mismo, el <span style="color:rgba(234, 104, 250)">Capullo</span> terminó en el Sistema Solar. 

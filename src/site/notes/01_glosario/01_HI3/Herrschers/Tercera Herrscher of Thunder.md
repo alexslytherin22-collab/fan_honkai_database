@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-glosario/01-hi-3/herrschers/tercera-herrscher-of-thunder/","dgShowLocalGraph":"true","dgShowFileTree":"true","noteIcon":"","updated":"2026-01-31T20:25:14.824+01:00"}
+{"dg-publish":true,"permalink":"/01-glosario/01-hi-3/herrschers/tercera-herrscher-of-thunder/","dgShowLocalGraph":"true","dgShowInlineTitle":"true","dgShowFileTree":"true","noteIcon":"","updated":"2026-01-31T21:05:04.023+01:00"}
 ---
 
 > [!note] AUTORIDAD

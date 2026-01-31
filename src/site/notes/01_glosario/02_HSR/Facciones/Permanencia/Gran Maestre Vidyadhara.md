@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-glosario/02-hsr/facciones/permanencia/gran-maestre-vidyadhara/","dgShowLocalGraph":"true","dgShowFileTree":"true","noteIcon":"","updated":"2026-01-31T20:32:27.633+01:00"}
+{"dg-publish":true,"permalink":"/01-glosario/02-hsr/facciones/permanencia/gran-maestre-vidyadhara/","dgShowLocalGraph":"true","dgShowInlineTitle":"true","dgShowFileTree":"true","noteIcon":"","updated":"2026-01-31T21:02:26.274+01:00"}
 ---
 
 Los Gran Maestre son los líderes de los Vidyadhara de la Alianza Xianzhou. Hay cinco Gran Maestre, cada uno de los cuales lidera su respectivo clan.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-glosario/01-hi-3/herrschers/cuarta-herrscher-of-wind/","dgShowLocalGraph":"true","dgShowFileTree":"true","noteIcon":"","updated":"2026-01-31T20:23:01.924+01:00"}
+{"dg-publish":true,"permalink":"/01-glosario/01-hi-3/herrschers/cuarta-herrscher-of-wind/","dgShowLocalGraph":"true","dgShowInlineTitle":"true","dgShowFileTree":"true","noteIcon":"","updated":"2026-01-31T21:05:45.403+01:00"}
 ---
 
 > [!note] AUTORIDAD

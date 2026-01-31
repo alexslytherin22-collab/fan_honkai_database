@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-glosario/02-hsr/eones/18-eon/ena-orden/","dgShowLocalGraph":"true","dgShowFileTree":"true","noteIcon":"","updated":"2026-01-31T20:27:50.873+01:00"}
+{"dg-publish":true,"permalink":"/01-glosario/02-hsr/eones/18-eon/ena-orden/","dgShowLocalGraph":"true","dgShowInlineTitle":"true","dgShowFileTree":"true","noteIcon":"","updated":"2026-01-31T21:04:20.994+01:00"}
 ---
 
 Ena es un Eón que representa la Vía del Orden. ELLOS fueron asimilados por Xipe cuando este ascendió a la condición de Eón, debido a que la Armonía se superponía con el concepto de Orden. ELLOS revivieron temporalmente durante el clímax de las acciones del domingo en Penacony.

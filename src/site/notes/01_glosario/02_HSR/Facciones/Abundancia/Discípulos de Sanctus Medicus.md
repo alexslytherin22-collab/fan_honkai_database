@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-glosario/02-hsr/facciones/abundancia/discipulos-de-sanctus-medicus/","dgShowLocalGraph":"true","dgShowFileTree":"true","noteIcon":"","updated":"2026-01-31T20:30:01.665+01:00"}
+{"dg-publish":true,"permalink":"/01-glosario/02-hsr/facciones/abundancia/discipulos-de-sanctus-medicus/","dgShowLocalGraph":"true","dgShowInlineTitle":"true","dgShowFileTree":"true","noteIcon":"","updated":"2026-01-31T21:03:20.699+01:00"}
 ---
 
 Los Discípulos de Sanctus Medicus son una secta secreta leal a Yaoshi, el Eón de la Abundancia, a quien se refieren como «el Misericordioso Medicus». Se encuentran en Xianzhou Luofu.

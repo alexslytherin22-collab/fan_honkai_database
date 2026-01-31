@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-glosario/01-hi-3/las-tres-dimensiones-de-la-realidad/","dgShowLocalGraph":"true","dgShowFileTree":"true","noteIcon":"","updated":"2026-01-31T20:25:58.316+01:00"}
+{"dg-publish":true,"permalink":"/01-glosario/01-hi-3/las-tres-dimensiones-de-la-realidad/","dgShowLocalGraph":"true","dgShowInlineTitle":"true","dgShowFileTree":"true","noteIcon":"","updated":"2026-01-31T21:04:47.117+01:00"}
 ---
 
 ### Las Tres Dimensiones de la realidad.

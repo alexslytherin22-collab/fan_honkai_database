@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-glosario/02-hsr/facciones/armonia/la-familia/","dgShowLocalGraph":"true","dgShowFileTree":"true","noteIcon":"","updated":"2026-01-31T20:30:16.270+01:00"}
+{"dg-publish":true,"permalink":"/01-glosario/02-hsr/facciones/armonia/la-familia/","dgShowLocalGraph":"true","dgShowInlineTitle":"true","dgShowFileTree":"true","noteIcon":"","updated":"2026-01-31T21:03:11.939+01:00"}
 ---
 
 Los habitantes de los mundos que han recibido la bendición de Xipe.

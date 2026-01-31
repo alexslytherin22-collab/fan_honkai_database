@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-glosario/01-hi-3/espacio-imaginario/","dgShowLocalGraph":"true","dgShowFileTree":"true","noteIcon":"","updated":"2026-01-31T20:25:31.861+01:00"}
+{"dg-publish":true,"permalink":"/01-glosario/01-hi-3/espacio-imaginario/","dgShowLocalGraph":"true","dgShowInlineTitle":"true","dgShowFileTree":"true","noteIcon":"","updated":"2026-01-31T21:04:57.890+01:00"}
 ---
 
 ![image-1.png|Interpretación visual del Universo|700x387](/img/user/media/image-1.png)

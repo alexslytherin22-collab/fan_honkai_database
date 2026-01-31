@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-glosario/00-realconcepts/mwi-many-worlds-interpretation/","dgShowLocalGraph":"true","dgShowFileTree":"true","noteIcon":"","updated":"2026-01-31T20:22:50.416+01:00"}
+{"dg-publish":true,"permalink":"/01-glosario/00-realconcepts/mwi-many-worlds-interpretation/","dgShowLocalGraph":"true","dgShowFileTree":"true","noteIcon":"","updated":"2026-01-31T21:05:48.577+01:00"}
 ---
 
 La Interpretación de los muchos mundos (IMM) es una postura filosófica acerca de la relación entre las matemáticas de la mecánica cuántica y la realidad física. Asegura que la función de onda universal es objetivamente real y que no hay colapso de la función de onda,​ implicando que todos los posibles resultados de las mediciones cuánticas se materializan físicamente en algún "mundo" o universo. A diferencia de otras interpretaciones, la evolución de la realidad en su totalidad en la IMM es rígidamente determinista y local.​ La IMM también se conoce como la "formulación del estado relativo" o la "interpretación de Everett", en honor al físico Hugh Everett, quien la propuso por primera vez en 1957. Bryce DeWitt popularizó esta formulación y la nombró "muchos mundos" en la década de 1970.

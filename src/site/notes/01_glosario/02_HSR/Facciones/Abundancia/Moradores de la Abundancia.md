@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-glosario/02-hsr/facciones/abundancia/moradores-de-la-abundancia/","dgShowLocalGraph":"true","dgShowFileTree":"true","noteIcon":"","updated":"2026-01-31T20:30:08.931+01:00"}
+{"dg-publish":true,"permalink":"/01-glosario/02-hsr/facciones/abundancia/moradores-de-la-abundancia/","dgShowLocalGraph":"true","dgShowInlineTitle":"true","dgShowFileTree":"true","noteIcon":"","updated":"2026-01-31T21:03:16.525+01:00"}
 ---
 
 Los elegidos que han recibido las bendiciones de Abundancia. Se deleitan en la alegría que les proporcionan sus cuerpos inmortales y alaban a Yaoshi por su bondad y gracia. Son una facción importante formada por varias especies longevas que siguen al Eón Yaoshi, habiendo sido bendecidas con la inmortalidad a través de la Vía de la Abundancia.

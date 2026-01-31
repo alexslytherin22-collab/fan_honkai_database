@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-glosario/02-hsr/facciones/caceria/vigilantes-de-la-galaxia/","dgShowLocalGraph":"true","dgShowFileTree":"true","noteIcon":"","updated":"2026-01-31T20:30:56.521+01:00"}
+{"dg-publish":true,"permalink":"/01-glosario/02-hsr/facciones/caceria/vigilantes-de-la-galaxia/","dgShowLocalGraph":"true","dgShowInlineTitle":"true","dgShowFileTree":"true","noteIcon":"","updated":"2026-01-31T21:02:56.771+01:00"}
 ---
 
 Un grupo justo formado voluntariamente que cree que la bondad y la justicia del universo deben servirse a través de las acciones de los individuos. Tras enemistarse con el Dr. Primitive, miembro 64 del Círculo de Genios, nunca más se supo nada del grupo.

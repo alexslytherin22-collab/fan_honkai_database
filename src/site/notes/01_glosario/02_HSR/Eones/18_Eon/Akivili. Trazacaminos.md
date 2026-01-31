@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-glosario/02-hsr/eones/18-eon/akivili-trazacaminos/","dgShowLocalGraph":"true","dgShowFileTree":"true","noteIcon":"","updated":"2026-01-31T20:27:42.412+01:00"}
+{"dg-publish":true,"permalink":"/01-glosario/02-hsr/eones/18-eon/akivili-trazacaminos/","dgShowLocalGraph":"true","dgShowInlineTitle":"true","dgShowFileTree":"true","noteIcon":"","updated":"2026-01-31T21:04:24.296+01:00"}
 ---
 
 El Eón que preside la Vía de los Trazacaminos. ELLOS partieron del aislado mundo de Pegana y continuaron abriendo fronteras desconocidas. SU destino llegó a su fin de forma inesperada y hoy en día no se sabe de SU estado o paradero.

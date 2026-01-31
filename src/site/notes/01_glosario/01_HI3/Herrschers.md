@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-glosario/01-hi-3/herrschers/","dgShowLocalGraph":"true","dgShowFileTree":"true","noteIcon":"","updated":"2026-01-31T20:25:39.513+01:00"}
+{"dg-publish":true,"permalink":"/01-glosario/01-hi-3/herrschers/","dgShowLocalGraph":"true","dgShowInlineTitle":"true","dgShowFileTree":"true","noteIcon":"","updated":"2026-01-31T21:04:55.041+01:00"}
 ---
 
 Las Herrschers son entidades imaginarias. Se da a entender que las Herrschers eran máquinas de matar sin mente hasta que Elysia intervino, dándoles la oportunidad de preservar su humanidad.

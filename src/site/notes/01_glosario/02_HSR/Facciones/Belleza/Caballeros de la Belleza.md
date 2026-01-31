@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-glosario/02-hsr/facciones/belleza/caballeros-de-la-belleza/","dgShowLocalGraph":"true","dgShowFileTree":"true","noteIcon":"","updated":"2026-01-31T20:30:31.588+01:00"}
+{"dg-publish":true,"permalink":"/01-glosario/02-hsr/facciones/belleza/caballeros-de-la-belleza/","dgShowLocalGraph":"true","dgShowInlineTitle":"true","dgShowFileTree":"true","noteIcon":"","updated":"2026-01-31T21:03:08.402+01:00"}
 ---
 
 Personas que alaban fervientemente la belleza de Eón, Idrila. Los guerreros más hábiles entre ellos formaron los Caballeros de la Belleza, que se disolvieron tras la desaparición de Idrila.

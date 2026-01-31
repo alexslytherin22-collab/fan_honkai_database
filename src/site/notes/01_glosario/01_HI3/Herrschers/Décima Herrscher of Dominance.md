@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/01-glosario/01-hi-3/herrschers/decima-herrscher-of-dominance/","dgShowLocalGraph":"true","dgShowFileTree":"true","noteIcon":"","updated":"2026-01-31T20:23:11.447+01:00"}
+{"dg-publish":true,"permalink":"/01-glosario/01-hi-3/herrschers/decima-herrscher-of-dominance/","dgShowLocalGraph":"true","dgShowInlineTitle":"true","dgShowFileTree":"true","noteIcon":"","updated":"2026-01-31T21:05:40.057+01:00"}
 ---
 
 > [!note] AUTORIDAD
