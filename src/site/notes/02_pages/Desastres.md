@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/02-pages/desastres/","dgShowLocalGraph":"true","dgShowFileTree":"true","noteIcon":"","updated":"2026-01-31T20:18:03.446+01:00"}
+{"dg-publish":true,"permalink":"/02-pages/desastres/","dgShowLocalGraph":"true","dgShowInlineTitle":"true","dgShowFileTree":"true","noteIcon":"","updated":"2026-01-31T20:48:47.737+01:00"}
 ---
 
 # Cáncer de todos los mundos: Stellaron
